@@ -6,6 +6,9 @@
 ## 使用例
 
 ```
-$ python morse_code_converter.py "hello"
- 0000 0 0100 0100 111
+$ python morse_code_converter.py "yabaken"                               
+ 1011 01 1000 01 101 0 10
 ```
+
+## 参考画像
+![image](https://user-images.githubusercontent.com/40051885/156515952-35230b57-9a2f-4d1d-bc47-7e26718ffa4d.png)
